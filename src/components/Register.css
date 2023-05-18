@@ -1,0 +1,11 @@
+
+.box1{
+    margin: 11% 18%;
+    
+}
+.mbox{
+    border: 1px solid black;
+    border-radius: 1%;
+    background-color: rgb(255, 255, 255);
+    width: 92%;
+}
